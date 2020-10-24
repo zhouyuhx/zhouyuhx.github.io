@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b7306f1-3970-4a82-9d87-ff5482833b4f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slid1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slid2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slid3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slid4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slid5.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -32,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3698">
-              <caret line="328" column="81" selection-start-line="328" selection-start-column="81" selection-end-line="328" selection-end-column="81" />
+            <state relative-caret-position="332">
+              <caret line="127" column="80" selection-start-line="127" selection-start-column="80" selection-end-line="127" selection-end-column="80" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -53,8 +48,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="1087" column="39" selection-start-line="1087" selection-start-column="39" selection-end-line="1087" selection-end-column="39" />
+            <state relative-caret-position="209">
+              <caret line="2201" column="17" selection-start-line="2201" selection-start-column="17" selection-end-line="2201" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -827,12 +822,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603537851219</updated>
-      <workItem from="1603537854960" duration="3450000" />
+      <workItem from="1603537854960" duration="3925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3450000" />
+    <option name="totallyTimeSpent" value="3925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="50" width="1231" height="776" extended-state="0" />
@@ -948,16 +943,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="1087" column="39" selection-start-line="1087" selection-start-column="39" selection-end-line="1087" selection-end-column="39" />
+        <state relative-caret-position="209">
+          <caret line="2201" column="17" selection-start-line="2201" selection-start-column="17" selection-end-line="2201" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3698">
-          <caret line="328" column="81" selection-start-line="328" selection-start-column="81" selection-end-line="328" selection-end-column="81" />
+        <state relative-caret-position="332">
+          <caret line="127" column="80" selection-start-line="127" selection-start-column="80" selection-end-line="127" selection-end-column="80" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
