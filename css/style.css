@@ -632,11 +632,11 @@ div.thumb{
 	background: #202020;
 }
 div.thumb,div.someContent{
-	width: 330px;
+	width: 370px;
     height: 242px;
 }
 div.divLeft, div.divRight{
-	width:184px;
+	width:185px;
 	height:242px;
 	overflow:hidden;
 	position:relative;
@@ -645,10 +645,10 @@ div.divLeft, div.divRight{
 	float:left;
 }
 div.divLeft{
-	margin-right:-10px;
+	margin-right:0px;
 }
 div.divLeftImage{
-	width:155px;
+	width:185px;
 	height:100%;
 	float:left;
 }
@@ -658,7 +658,6 @@ div.divLeftShadow{
 	float:left;
 }
 div.divRight{
-	width:155px;
 	background-position:-245px 0;
 }
 
@@ -1084,7 +1083,6 @@ ul.hb-video-icons {
 	display: inline-block;
 	margin: 0 .5em;
 	list-style: none;
-	width: 22%;
 	border: 1px solid rgb(32, 36, 41);
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
