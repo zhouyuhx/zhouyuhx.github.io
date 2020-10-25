@@ -2374,7 +2374,7 @@ figure {
 		margin: 2em 0 0;
 	}
 	.about-bottom-grid1,.about-bottom-grid {
-		width: 40%;
+		width: 33.33%;
 		float: none;
 	}
 	.about-bottom-grid {
@@ -3729,5 +3729,7 @@ figure {
     height: auto;
     background: #323232;
 }
+.border0{
 
+}
 
