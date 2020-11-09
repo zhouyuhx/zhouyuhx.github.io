@@ -913,7 +913,8 @@ ul.hb-video-icons {
 /*--//services--*/
 /*---hx-type----*/
 .hx-type,.steps {
-  padding: 5em 0;
+    background: #2D2B2B !important;
+    padding: 5em 0;
 }
 .hx-type p {
   font-size: 1.1em;
@@ -923,11 +924,20 @@ ul.hb-video-icons {
   margin: 0 auto;
   text-align: center;
 }
+.hx-type h3.title{
+    color: #ffffff !important;
+}
+.hx-type h3.title span:before, .hx-type h3.title span:after {
+    background: #fff;
+}
 .hx-type h3.title span:after,.contact h3.title span:after {
     right: 26% !important;
 }
 .hx-type h3.title span:before,.contact h3.title span:before {
     left: 26% !important;
+}
+.hx-type h3.title span {
+    color: #fff;
 }
 .steps h3.title span:after{
     right:30% !important;
